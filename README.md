@@ -2,6 +2,7 @@
 Load Tester is a Python based command line tool designed to simulate high traffic loads on websites. It sends multiple concurrent HTTP requests to measure performance like response times, success rates, and requests per second.
 
 A Python-based load testing tool that simulates multiple concurrent requests to test website performance and stability.
+
 <img width="588" height="735" alt="Screenshot 2025-09-26 at 00 27 00" src="https://github.com/user-attachments/assets/21e1dc9e-1e16-4f77-9b9e-4a15a728233b" />
 
 ## Features
