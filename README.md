@@ -45,8 +45,6 @@ python3 main.py
 
   Use responsibly and only on websites you own or have permission to test. The author is not responsible for misuse.
 
-## License
-  MIT License - Feel free to modify and distribute.
 
 
 
